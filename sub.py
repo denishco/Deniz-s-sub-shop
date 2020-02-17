@@ -6,7 +6,7 @@
 #Different funcitons were created for each step so that the customer can go back in any point in time and keep some informatoin and change other
 #An example of this would be if the customer picked the wrong sub but the right toppings, to save time you do not have to re run the entire program and can rather just run the function that picks the type of sandwich
 #Another reason why code that is devided into funcitons is optimal in this case is because it makes it all very organized and avoids larger quantities of code in one huge block
-#E-nums were not used, although i do know the would facilitate the process, i am not programming this because i want it ideal, i just want the mark cuz my last assignment rekt my grade lmao
+
 
 #import this library
 import random
@@ -182,7 +182,7 @@ def checkCorrectSub():
 
 #Welcoming message
 print("================================")
-print("| Welcome to Seb's Sub Shoppe! |")
+print("| Welcome to Deniz's Sub Shoppe! |")
 print("================================")
 
 #Running the functions required
